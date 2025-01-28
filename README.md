@@ -2,6 +2,8 @@
 
 This is a webpage that styles an html homescreen for a food delivering app.
 
+![Image](https://github.com/user-attachments/assets/b5ad893d-7280-4d1b-a212-5acbd0e7988a)
+
 ## Getting Started
 
 Open the html file in a browser, or host it locally through for example XAMPP.
